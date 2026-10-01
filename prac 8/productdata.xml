@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Products>
+
+	<Product>
+		<pid>101</pid>
+		<pname>Samsung Refrigerator</pname>
+		<price>200000</price>
+		<dom>10-01-2026</dom>
+	</Product>
+
+	<Product>
+		<pid>102</pid>
+		<pname>Samsung Galaxy</pname>
+		<price>560000</price>
+		<dom>09-07-2026</dom>
+	</Product>
+
+	<Product>
+		<pid>103</pid>
+		<pname>Apple iPhone</pname>
+		<price>800000</price>
+		<dom>15-12-2026</dom>
+	</Product>
+
+	<Product>
+		<pid>104</pid>
+		<pname>Google Pixel</pname>
+		<price>600000</price>
+		<dom>20-03-2026</dom>
+	</Product>
+
+	<Product>
+		<pid>105</pid>
+		<pname>OnePlus Nord</pname>
+		<price>350000</price>
+		<dom>10-06-2026</dom>
+	</Product>
+
+	<Product>
+		<pid>106</pid>
+		<pname>Xiomi Redmi</pname>
+		<price>250000</price>
+		<dom>15-09-2026</dom>
+	</Product>
+
+	<Product>
+		<pid>107</pid>
+		<pname>HTC U12+</pname>
+		<price>400000</price>
+		<dom>25-11-2026</dom>
+	</Product>
+
+	<Product>
+		<pid>108</pid>
+		<pname>Sony WH-1000XM4</pname>
+		<price>300000</price>
+		<dom>30-04-2026</dom>
+	</Product>
+</Products>
